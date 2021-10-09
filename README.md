@@ -2,6 +2,8 @@
 
 This is a simple one page Website using bootstrap. I have created this one during the Web Design Intern at Internship Studio. This was my first Project during Web Design at Internship Studio.
 
+Visit the WEbsite: https://rupamjana12.github.io/My-resume/
+
 # Some snapshots of Website:
 
 <hr>
